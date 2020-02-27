@@ -2,10 +2,10 @@
 
 [![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-demo.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-demo)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mroserov/jupyterlab-demo/master?urlpath=lab)
 
 This repository contains some demonstrations of
-[JupyterLab](https://github.com/jupyter/jupyterlab), the next
+[JupyterLab](https://github.com/mroserov/jupyterlab), the next
 generation user interface of Project Jupyter.
 
 ## Installation
